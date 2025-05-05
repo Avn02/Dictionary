@@ -9,6 +9,10 @@
 body {
     background-color: #ae9cff;
 }
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
 .container {
     background-color: #ffffff;
     width: 90vmin;
